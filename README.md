@@ -1,7 +1,7 @@
 # githubCE888
 
-The datasets used for assignment 2 can be found here
-Data describes the stop and search reported in North West England(Cheshire, Cumbria, Greater Manchester, Lancashire and Mercyside)
+The datasets used for assignment 2 can be found here.
+I have used 3 datasets which describes the stop and search reported in North West England(Cheshire, Cumbria, Greater Manchester, Lancashire and Mercyside) in June 2018, January 2019 and November 2020 repectively.
 
 1. june_2018: stop and search reported in june_2018
 https://raw.githubusercontent.com/SudheenaMisra/Datasets/main/North%20West%20England/june_2018.csv
