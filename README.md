@@ -1,4 +1,4 @@
-# githubCE888
+# Assignmnet_2 project 3
 
 The datasets used for assignment 2 can be found here.
 I have used 3 datasets which describes the stop and search reported in North West England(Cheshire, Cumbria, Greater Manchester, Lancashire and Mercyside) in June 2018, January 2019 and November 2020 repectively.
